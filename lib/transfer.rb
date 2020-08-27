@@ -15,4 +15,6 @@ class Transfer
     sender.valid? && receiver.valid? && amount < sender.balance
   end 
   
+  def 
+  
 end
