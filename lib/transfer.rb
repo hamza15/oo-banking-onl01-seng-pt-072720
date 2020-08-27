@@ -15,6 +15,8 @@ class Transfer
     sender.valid? && receiver.valid? && amount < sender.balance
   end 
   
-  def 
+  def execute_transaction
+    
+  end
   
 end
